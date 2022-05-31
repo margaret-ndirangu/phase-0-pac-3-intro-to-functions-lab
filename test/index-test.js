@@ -50,3 +50,14 @@ describe('sayHiToHeadphonedRoommate(string)', function() {
     );
   });
 })
+const string = "Hello!";
+
+console.log(string);
+console.log(string.toUpperCase());
+
+console.log(string === string.toUpperCase());
+
+console.log(string);
+console.log(string.toLowerCase());
+
+console.log(string === string.toLowerCase());
